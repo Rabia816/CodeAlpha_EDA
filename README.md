@@ -123,7 +123,7 @@ This includes:
 
 ### Clone Repository
 ```bash
-git clone https://github.com/your-username/CodeAlpha_EDA_Project.git
+git clone https://github.com/Rabia816/CodeAlpha_EDA_Project.git
 ```
 
 ### Install Dependencies
